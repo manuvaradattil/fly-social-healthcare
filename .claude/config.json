@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "fly-agent": {
+      "command": "npx",
+      "args": [
+        "fly-agent-mcp"
+      ],
+      "env": {
+        "FLY_API_KEY": "fly_sk_ElQBFpIEBteesUK1LYq1SYmxnEtGtOCng1EDzX92zDE"
+      }
+    }
+  }
+}
